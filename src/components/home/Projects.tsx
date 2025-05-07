@@ -44,9 +44,9 @@ export const Projects: React.FC = () => {
     <AnimatedSection id="projects" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">My Projects</h2>
+          <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">Mes projets</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Here are some of the projects I've worked on. Each one has been an opportunity to learn and grow as a developer.
+            Trouvez dans cette section mes projets réalisés dans tout type de domaine.
           </p>
         </div>
         

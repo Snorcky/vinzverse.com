@@ -54,9 +54,9 @@ export const Experience: React.FC = () => {
     <AnimatedSection id="experience" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">Work Experience</h2>
+          <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">Mes expériences</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            My professional journey and the companies I've had the pleasure to work with.
+            Mes expériences professionnelles les plus récentes
           </p>
         </div>
         
